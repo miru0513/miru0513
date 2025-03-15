@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Miruna</h1>
 
-<!--
-**miru0513/miru0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-year Computer Science student at Babeș-Bolyai University (UBB) - Cluj-Napoca**  
+📍 **Cluj-Napoca, Romania**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📚 About Me
+📂 In the **"Facultate"** folder, you can find **notes & helpful information** from university courses.  
+💡 The rest of my repositories contain my **personal projects** and coding experiments.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miruna-andreea-ilie-4a130b294/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iliemiruna13/)
+
