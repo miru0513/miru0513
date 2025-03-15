@@ -41,7 +41,7 @@
 ---
 
 ## 📚 About this account
-📂 In the **"UBB_Facultate"** folder, you can find **notes & helpful information** from university courses.  
+📂 In the **"UBB_facultate"** folder, you can find **notes & helpful information** from university courses.  
 💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now just Connect-4 )
 
 ---
