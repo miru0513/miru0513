@@ -42,7 +42,7 @@
 
 ## 📚 About Me
 📂 In the **"Facultate"** folder, you can find **notes & helpful information** from university courses.  
-💡 The rest of my repositories contain my **personal projects** and coding experiments.
+💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now just Connect-4 )
 
 ---
 
