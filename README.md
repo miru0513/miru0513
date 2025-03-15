@@ -22,6 +22,23 @@
 </p>
 
 ---
+## 📚 Courses  
+### ✅ **Completed (First Semester)**
+-Algebra                     
+-Mathematical Analysis        
+-Computer Systems Architecture 
+-Fundamentals of Programming  
+-Computational Logic        
+          
+### 📖 **Currently Taking (Second Semester)**
+- Operating Systems  
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
+- Geometry  
+- Dynamic Systems  
+- Graph Algorithms
+
+---
 
 ## 📚 About Me
 📂 In the **"Facultate"** folder, you can find **notes & helpful information** from university courses.  
