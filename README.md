@@ -24,12 +24,13 @@
 ---
 ## 📚 Courses  
 ### ✅ **Completed (First Semester)**
--Algebra                     
--Mathematical Analysis        
--Computer Systems Architecture 
--Fundamentals of Programming  
--Computational Logic        
-          
+- Algebra  
+- Mathematical Analysis  
+- Computer Systems Architecture  
+- Fundamentals of Programming  
+- Computational Logic  
+
+
 ### 📖 **Currently Taking (Second Semester)**
 - Operating Systems  
 - Object-Oriented Programming  
@@ -37,7 +38,6 @@
 - Geometry  
 - Dynamic Systems  
 - Graph Algorithms
-
 ---
 
 ## 📚 About Me
