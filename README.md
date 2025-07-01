@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Miruna</h1>
 
 🎓 **Second-year Computer Science student at Babeș-Bolyai University (UBB) - Cluj-Napoca (2024-2027)**  
-📍 **Cluj-Napoca, Romania**  
+📍 **Cluj-Napoca/Bucurrsti/Ploiesti, Romania**  
 
 ---
 
