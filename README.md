@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Miruna</h1>
 
-🎓 **First-year Computer Science student at Babeș-Bolyai University (UBB) - Cluj-Napoca**  
+🎓 **Second-year Computer Science student at Babeș-Bolyai University (UBB) - Cluj-Napoca (2024-2027)**  
 📍 **Cluj-Napoca, Romania**  
 
 ---
@@ -31,7 +31,7 @@
 - Computational Logic  
 
 
-### 📖 **Currently Taking (Second Semester)**
+### ✅ **Completed (Second Semester)**
 - Operating Systems  
 - Object-Oriented Programming  
 - Data Structures & Algorithms  
