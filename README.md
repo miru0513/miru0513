@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Miruna</h1>
 
-🎓 **Second-year Computer Science student at Babeș-Bolyai University (UBB) - Cluj-Napoca (2024-2027)**  
-📍 **Cluj-Napoca/Bucuresti/Ploiesti, Romania**  
+🎓 **Second-year Computer Science student at Babeș-Bolyai University (UBB) – Cluj-Napoca (2024–2027)**  
+📍 **Cluj-Napoca / Bucharest / Ploiești, Romania**  
+💡 **Passionate about data analysis and database systems.**  
+📊 **Interested in exploring data-driven insights and designing efficient database solutions.**
 
 ---
 
@@ -19,7 +21,14 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 ## 📚 Courses  
