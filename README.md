@@ -38,11 +38,18 @@
 - Geometry  
 - Dynamic Systems  
 - Graph Algorithms
+
+### 🎓 **Currently Taking (Third Semester)**
+- Advanced Programming Methods  
+- Databases  
+- Logic and Functional Programming  
+- Probability and Statistics  
+- Computer Networks
 ---
 
 ## 📚 About this account
 📂 In the **"UBB_facultate_1"** folder, you can find **notes & helpful information** from university courses.  
-💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now just Connect-4 and an Event Management App )
+💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now just Connect-4 and an Event Management App and currently an Interpretor in Java )
 
 ---
 
