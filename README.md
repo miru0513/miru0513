@@ -64,7 +64,7 @@
 
 ## 📚 About this account
 📂 In the **"UBB_facultate_1"** folder, you can find **notes & helpful information** from university courses.  
-💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now just Connect-4 and an Event Management App and currently an Interpretor in Java )
+💡 The rest of my repositories contain my **personal projects** and coding experiments. ( for now I have my course projects: Connect-4, Event Management App, Java Interpreter and my first personal project: a Spotify Data Analysis App )
 
 ---
 
